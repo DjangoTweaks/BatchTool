@@ -10,7 +10,7 @@
      ```
 
 2. **Provide Inputs:**
-   - **Folder Path:** Enter the full directory path where your text files are located.  
+   - **Folder Path:** Enter the full directory path where your batch files are located.  
      Example:  
      ```
      C:\Users\YourUser\Documents\BatchFiles
@@ -22,7 +22,7 @@
      ```
 
 3. **CSV Generation:**
-   - The tool reads all files from the specified folder.
+   - The tool reads all batch files from the specified folder.
    - It generates a CSV with two columns: `BatchTitle` (file name) and `BatchContent` (file contents).
    - The CSV file automatically opens after the process is complete.
 
